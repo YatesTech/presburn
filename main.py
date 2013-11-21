@@ -1,6 +1,8 @@
 from Tkinter import *
 import sys, os
 
-top = Tkinter.Tk()
+top = Tk()
 
+head = Label(top, text = "Presburn \n \n \n")
+head.pack()
 top.mainloop()
