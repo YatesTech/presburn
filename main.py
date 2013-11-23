@@ -14,6 +14,7 @@ head.pack()
 top.title("Presburn")
 
 #News
+#ONLY ONE HEADLINE!
 hlines = Label(top, text = "Headlines \n ", font=headtwofont)
 hlines.pack()
 hlinesone = Label(top, text = "Headline One Title \n", font=headlinetitle)
