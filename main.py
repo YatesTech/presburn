@@ -8,7 +8,7 @@ headfont = tkFont.Font(family="Helvetica", size=24)
 headtwofont = tkFont.Font(family="Helvetica", size=18)
 headlinetitle = tkFont.Font(family="Helvetica", size=14)
 
-def main():
+
   #Title
   head = Label(top, text = "Presburn \n ", font=headfont)
   head.pack()
