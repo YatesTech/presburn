@@ -21,6 +21,7 @@ def main():
   hlinesone = Label(top, text = "Headline One Title \n", font=headlinetitle)
   hlinesone.pack()
 #Citizenship
-def citizenship
+def citizenship():
+  
   
 top.mainloop()
