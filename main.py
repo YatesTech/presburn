@@ -6,3 +6,11 @@ print (" \n \n \n News ")
 print (" \n \n \n Sat 30 Nov, 2013 @ 7:13PM ")
 print ("Presburn may become capitalist. \n Today a bill was proposed that could make Presburn a \n capitalist state. The poll is currently: \n 2/0/0 (Support/Oppose/Abstain) \n The poll ends tomorow.")
 
+#info
+
+#breaking the two spaces
+print ("\n \n \n \n ")
+#start info
+print ("Want citizenship? \n To get citizenship, go to our website at http://www.presburn.tk/ \n")
+#IRC info
+print ("To get in contact with us, go to our IRC channel on freenode: #presburn")
