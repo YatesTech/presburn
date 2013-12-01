@@ -1,27 +1,8 @@
-from Tkinter import *
 import sys, os
-import tkFont
-top = Tk()
-top.geometry('640x480+200+200')
-#Fonts Settings
-headfont = tkFont.Font(family="Helvetica", size=24)
-headtwofont = tkFont.Font(family="Helvetica", size=18)
-headlinetitle = tkFont.Font(family="Helvetica", size=14)
+print ("Welcome to the Presburn Application Menu!")
+#News Headline
+print (" \n \n \n News ")
+#Actual News
+print (" \n \n \n Sat 30 Nov, 2013 @ 7:13PM ")
+print ("Presburn may become capitalist. \n Today a bill was proposed that could make Presburn a \n capitalist state. The poll is currently: \n 2/0/0 (Support/Oppose/Abstain) \n The poll ends tomorow.")
 
-
-  #Title
-  head = Label(top, text = "Presburn \n ", font=headfont)
-  head.pack()
-  top.title("Presburn")
-
-  #News
-  #ONLY ONE HEADLINE!
-  hlines = Label(top, text = "Headlines \n ", font=headtwofont)
-  hlines.pack()
-  hlinesone = Label(top, text = "Headline One Title \n", font=headlinetitle)
-  hlinesone.pack()
-#Citizenship
-def citizenship():
-  
-  
-top.mainloop()
