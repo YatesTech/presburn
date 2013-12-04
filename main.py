@@ -7,7 +7,7 @@ def news():
 	print (" \n News ")
 	#Actual News
 	print (" \n ")
-	print ("The new website for Presburn is being worked on, and has an ETA of 10 December, 2013. \n    ")
+	print ("The Presburn Webpage is coming along nicely, and will not be buggy like the Affordable \n Care Act's page.    ")
 	
 def citizenship():
 	#info
