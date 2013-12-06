@@ -7,7 +7,7 @@ def news():
 	print (" \n News ")
 	#Actual News
 	print (" \n ")
-	print ("The Presburn Webpage is coming along nicely, and will not be buggy like the Affordable \n Care Act's page.    ")
+	print ("RIP M. Mandela. You will never be forgotten.     ")
 	
 def citizenship():
 	#info
