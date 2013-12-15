@@ -7,7 +7,7 @@ def news():
 	print (" \n News ")
 	#Actual News
 	print (" \n ")
-	print ("RIP M. Mandela. You will never be forgotten.     ")
+	print ("Forum is online now! Go to http://www.presurn.tk/forum/      ")
 	
 def citizenship():
 	#info
